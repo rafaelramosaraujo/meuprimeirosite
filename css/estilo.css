@@ -3,13 +3,19 @@ head{
 }
 ul{
    color: #2b2d42; 
+   font-family: copperdale, fantasy;
 }
 code{
-   color: #2b2d42;  
+   color: #2b2d42; 
+   font-family: copperdale, fantasy; 
 }
 h1{
     color: #d90429;
+    font-family: copperdale, fantasy;
+	font-size: 2em;
 }
 h2{
     color: #d90429;
+    font-family: copperdale, fantasy;
+	font-size: 2em;
 }

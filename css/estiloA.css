@@ -1,0 +1,40 @@
+body{
+    background-color: darkgrey;
+}
+
+header{
+    background-color: rgb(77,139,195);
+    padding: 3%;
+}
+
+.logo{
+    background-color: rgb(255, 255, 0);
+}
+
+nav{
+    background-color: beige;
+}
+
+main{
+    background-color: blueviolet;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section{
+    background-color: chartreuse;
+}
+
+footer{
+    background-color: brown;
+    padding: 3%;
+}
+
+.cabeçalho{
+    padding: 3%;
+}
+
+.rodapé{
+    padding: 3%;
+}
