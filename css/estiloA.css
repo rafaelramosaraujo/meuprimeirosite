@@ -3,13 +3,13 @@ body{
 }
 
 header{
-    background-color: rgb(77,139,195);
+background-color: brown;
     padding: 3%;
 }
 
-.logo{
-    background-color: rgb(255, 255, 0);
-}
+/*.logo{
+    background-color: aquamarine;
+}*/
 
 nav{
     background-color: beige;
