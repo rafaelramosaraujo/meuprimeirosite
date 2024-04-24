@@ -3,13 +3,13 @@ body{
 }
 
 header{
-background-color: brown;
+background-color: #52b788;
     padding: 3%;
 }
 
-/*.logo{
-    background-color: aquamarine;
-}*/
+.logo{
+    background-color: #52b788;
+}
 
 nav{
     background-color: beige;
