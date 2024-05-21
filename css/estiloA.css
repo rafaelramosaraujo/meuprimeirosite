@@ -1,5 +1,5 @@
 body{
-    background-color: darkgrey;
+    background-color: #2bb96b;
 }
 
 header{
@@ -27,7 +27,7 @@ section{
 }
 
 footer{
-    background-color: brown;
+    background-color: beige;
     padding: 3%;
 }
 
@@ -45,4 +45,9 @@ footer{
 
 .img_banner{
     width: 100%;
+}
+
+h1{
+    font-family: copperdale, fantasy;
+    font-size: 30pt;
 }
