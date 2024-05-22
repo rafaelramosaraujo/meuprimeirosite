@@ -51,3 +51,7 @@ h1{
     font-family: copperdale, fantasy;
     font-size: 30pt;
 }
+
+table, th{
+    border:1px solid black;
+}
