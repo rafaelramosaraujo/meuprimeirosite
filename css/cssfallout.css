@@ -55,3 +55,20 @@ h1{
 table, th{
     border:1px solid black;
 }
+
+td{
+    border:1px solid black;
+    text-align: center;
+}
+
+.sobre{
+    padding: 1%;
+}
+
+.historia{
+    padding: 1%;
+}
+
+.jogos{
+    padding: 1%;
+}
