@@ -72,3 +72,33 @@ td{
 .jogos{
     padding: 1%;
 }
+
+.linha{
+    display: flex;
+    flex-flow: row wrap;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.col-3{
+    width: 25%;
+}
+
+.col-3 p{
+    font-size: 1rem;
+    text-align: center;
+}
+
+.imggaleria{
+    width: 90%;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.franquia{
+    text-align: center;
+    color: black;
+    font-family: copperdale, fantasy;
+    font-size: 20pt;
+    padding: 1%;
+}
