@@ -3,16 +3,16 @@ body{
 }
 
 header{
-background-color: #52b788;
+background-color: #2bb96b;
     padding: 3%;
 }
 
 .logo{
-    background-color: #52b788;
+    background-color: #2bb96b;
 }
 
 nav{
-    background-color: beige;
+    background-color: #2bb96b;
 }
 
 main{
@@ -122,7 +122,7 @@ tr{
 .franquia{
     text-align: center;
     color: black;
-    font-family: copperdale, fantasy;
+    font-family: "Share Tech Mono", monospace;
     font-size: 20pt;
     padding: 1%;
 }
@@ -136,3 +136,8 @@ p{
     color: black;
     padding: 1%;
 }
+
+a{
+    color: black;
+}
+
