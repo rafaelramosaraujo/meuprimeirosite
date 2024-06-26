@@ -159,3 +159,38 @@ a{
     font-size: 45%;
  }
 }
+
+.serie{
+    padding-top: 3%;
+}
+
+.falloutsérie{
+    float: right;
+    width: 420px;
+    height: 263px;
+    margin-left: 15px;
+    overflow: auto;
+}
+
+.premissa{
+    padding-top: 2%;
+}
+
+@media screen and (max-width: 1024px) {
+ .falloutsérie{
+    width: 220px;
+    height: 150px;
+ }
+}
+
+@media screen and (max-width: 483px) {
+ nav{
+    font-size: 60%;
+ }
+}
+
+@media screen and (max-width: 483px) {
+ footer{
+    font-size: 60%;
+ }
+}
