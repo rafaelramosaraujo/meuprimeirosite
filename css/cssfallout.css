@@ -23,11 +23,11 @@ main{
 }
 
 section{
-    background-color: chartreuse;
+    background-color: #343a40;
 }
 
 footer{
-    background-color: beige;
+    background-color: white;
     padding: 3%;
 }
 
@@ -48,7 +48,6 @@ footer{
 }
 
 h1{
-    font-family: arial, black;
     font-size: 30pt;
     text-align: center;
     padding-bottom: 1%;
@@ -59,6 +58,7 @@ h2{
     font-size: 20pt;
     text-align: center;
     padding: 1%;
+    color: white;
 }
 
 th, td{
@@ -68,10 +68,11 @@ th, td{
     padding-bottom: 1%;
     font-family: "Share Tech Mono", monospace;
     vertical-align: middle;
-    background-color: aliceblue;
+    background-color: #343a40;
 }
-p, li, h1, h2, h3, h4, td, th, a{
+p, li, h1, h2, h3, h4, td, th{
     font-family: "Share Tech Mono", monospace;
+    color: white;
 }
 
 td{
@@ -121,7 +122,7 @@ tr{
 
 .franquia{
     text-align: center;
-    color: black;
+    color: white;
     font-family: "Share Tech Mono", monospace;
     font-size: 20pt;
     padding: 1%;
@@ -133,7 +134,6 @@ tr{
 
 p{
     font-family: "Share Tech Mono", monospace;
-    color: black;
     padding: 1%;
 }
 
@@ -141,3 +141,21 @@ a{
     color: black;
 }
 
+.textrodape{
+    color: black;
+}
+
+a{
+    font-family: "Share Tech Mono", monospace;
+    color: black;
+}
+
+.tabela{
+    padding: 3%;
+}
+
+@media screen and (max-width: 511px) {
+ table{
+    font-size: 45%;
+ }
+}
