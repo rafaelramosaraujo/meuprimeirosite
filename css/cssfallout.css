@@ -184,17 +184,18 @@ a{
 }
 
 @media screen and (max-width: 483px) {
- nav{
-    font-size: 60%;
- }
-}
-
-@media screen and (max-width: 483px) {
- footer{
-    font-size: 60%;
- }
+    nav{
+        font-size: 65%;
+    }
+    footer{
+        font-size: 65%;
+    }
 }
 
 .elenco{
     padding: 1%;
+}
+
+li{
+    text-align: center;
 }
