@@ -6,6 +6,10 @@ body{
     background-attachment: fixed;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 header{
 background-color: #2bb96b;
     padding: 2%;
@@ -217,3 +221,4 @@ li{
         font-size: 10pt;
     }
 }
+
